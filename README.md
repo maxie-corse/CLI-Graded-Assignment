@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains my submission for the **Command Line Interfaces & Scripting** graded assignment. The assignment focuses on fundamental Linux command-line operations, shell scripting concepts, file system management, permissions, links, input/output redirection, and storage analysis using Ubuntu (WSL). :contentReference[oaicite:0]{index=0}
+This repository contains my submission for the **Command Line Interfaces & Scripting** graded assignment. The assignment focuses on fundamental Linux command-line operations, shell scripting concepts, file system management, permissions, links, input/output redirection, and storage analysis using Ubuntu (WSL).
 
 ## Objectives
 
